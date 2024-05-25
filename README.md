@@ -1,2 +1,2 @@
 # event-driven-microservice
-This is a event driven microservice project
+This is a event driven microservice project.
